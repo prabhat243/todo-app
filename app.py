@@ -26,7 +26,7 @@ def home():
         <button type="submit">Add</button>
       </form>
       <ul>{items}</ul>
-      <p style="color:#718096">Running on Kubernetes + Docker 🚀</p>
+      
     </body>
     </html>"""
 
